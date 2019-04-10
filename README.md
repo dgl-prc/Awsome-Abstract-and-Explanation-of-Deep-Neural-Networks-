@@ -10,7 +10,7 @@ Titile [\[paper\]](link)<br />
 
 ## Differnece of Interpretation and Interpretation
 - Methods for interpreting and understanding deep neural network [\[paper\]](https://arxiv.org/pdf/1802.00121) <br/> 
-  *Gregoire Montavon et al.,2017*
+  *Gregoire Montavon et al.,2017*
 
 ## Disentangling Representations of Neural Networks
 ###  Computer Vision
