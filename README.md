@@ -8,7 +8,7 @@ Titile [\[paper\]](link)<br />
 -->
 
 
-## Differnece of Interpretation and Interpretation
+## Interpretation and Explanation，Basic Concepts
 - Methods for interpreting and understanding deep neural network [\[paper\]](https://arxiv.org/pdf/1802.00121) <br/> 
   *Gregoire Montavon et al.,2017*
 
