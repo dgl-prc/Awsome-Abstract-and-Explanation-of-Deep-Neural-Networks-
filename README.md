@@ -27,17 +27,20 @@ Titile [\[paper\]](link)<br />
   *Quanshi Zhang et al., 2019*
 - Interpreting CNN Knowledge via An Explanatory Graph [\[paper\]](https://arxiv.org/pdf/1708.01785)<br />
   *Quanshi Zhang et al., 2018*
+ 
+- Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations  [\[paper\]](https://arxiv.org/abs/1802.00541)<br />
+  *Michael Harradon, et al., 2018*
+  
+- Growing Interpretable Part Graphs on ConvNets via Multi-Shot Learning [\[paper\]](https://arxiv.org/abs/1611.04246)<br />
+  *Quanshi Zhang et al., 2017*
 
-
+- Distilling a Neural Network Into a Soft Decision Tree [\[paper\]](https://arxiv.org/abs/1711.09784)<br />
+  *Nicholas Frosst et al., 2017*
+  
 ###  Natural Language Processing 
 - Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples [\[paper\]](https://arxiv.org/pdf/1711.09576)<br />
   *Gail Weiss et al., 2017*
-
-
-
-
-
-
+- CNM: An Interpretable Complex-valued Network for Matching
 
 ## Other Resources
 - [https://github.com/Kangyeol-Kim/Awesome-XAI](https://github.com/Kangyeol-Kim/Awesome-XAI)
